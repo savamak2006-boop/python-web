@@ -4,8 +4,8 @@
 
 ## Ссылки
 
-- [Сайт на GitHub Pages](https://savamak2006-boob.github.io/python-web/)
-- [Репозиторий на GitHub](https://github.com/savamak2006-boob/python-web)
+- [Сайт на GitHub Pages](https://savamak2006-boop.github.io/python-web/)
+- [Репозиторий на GitHub](https://github.com/savamak2006-boop/python-web)
 
 ## О проекте
 
